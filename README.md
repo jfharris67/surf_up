@@ -1,4 +1,4 @@
-# surf_up
+# surfs_up
 ## Overview
 
 The purpose of this analysis is to determine the temperature trends in Oahu, Hawaii, in the months of June and December in order to evaluate the sustainability of a surf and ice cream shop business throughout the year. The analysis is based on temperature data collected for the two months and focuses on finding the summary statistics and identifying key differences between the two.
